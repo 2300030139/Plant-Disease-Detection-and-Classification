@@ -91,9 +91,4 @@ python train.py
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-
-## 👩‍💻 Author
-
-Navya  
-GitHub: https://github.com/2300030139  
+ © Navya
