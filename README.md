@@ -22,27 +22,28 @@ It uses machine learning / deep learning techniques to analyze plant leaf images
   - NumPy, Pandas
   - OpenCV / PIL
 - Model Type: Convolutional Neural Network (CNN)
-  
+
 ## 📁 Project Structure
 
-plant-disease-detector/
-│
-├── Crop Dataset/              # Dataset containing plant leaf images
-│
-├── backend/                  # Backend logic (Flask / model integration)
-│   ├── model/                # Trained ML/DL model files
-│   ├── utils/                # Helper functions (prediction, preprocessing)
-│   └── app.py                # Flask application
-│
-├── frontend/                 # User interface
-│   ├── templates/            # HTML files
-│   ├── static/               # CSS, JS, images
-│   └── index.html            # Main UI page
-│
-├── main.py                   # Runs the application
-├── train.py                  # Model training script
-├── requirements.txt          # Dependencies
-└── README.md                 # Project documentation
+- Crop Dataset/ : Contains plant leaf images used for training and testing  
+
+- backend/ : Handles backend logic (Flask + model integration)  
+  - model/ : Stores trained ML/DL model files  
+  - utils/ : Helper functions (image preprocessing, prediction)  
+  - app.py : Main backend application  
+
+- frontend/ : User interface of the application  
+  - templates/ : HTML files  
+  - static/ : CSS, JavaScript, images  
+  - index.html : Main page for user interaction  
+
+- main.py : Runs the complete application  
+
+- train.py : Script used for training the model  
+
+- requirements.txt : List of required libraries  
+
+- README.md : Project documentation  
 
 ## ⚙️ How It Works
 
