@@ -13,15 +13,16 @@ It uses machine learning / deep learning techniques to analyze plant leaf images
 - 💻 User Interface: Simple interface for uploading images and viewing results
 - ⚡ Fast Prediction: Quick results with optimized model
 
-🛠️ Technology Stack
-Frontend: HTML, CSS, JavaScript (if UI exists)
-Backend: Python
-Libraries/Frameworks:
-TensorFlow / Keras / PyTorch
-NumPy, Pandas
-OpenCV / PIL
-Model Type: Convolutional Neural Network (CNN)
+## 🛠️ Technology Stack
 
+- Frontend: HTML, CSS, JavaScript (if UI exists)
+- Backend: Python
+- Libraries/Frameworks:
+  - TensorFlow / Keras / PyTorch
+  - NumPy, Pandas
+  - OpenCV / PIL
+- Model Type: Convolutional Neural Network (CNN)
+  
 📁 Project Structure
 plant-disease-detector/
 │
@@ -33,14 +34,15 @@ plant-disease-detector/
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 
-⚙️ How It Works
-User uploads a plant leaf image
-Image is preprocessed (resized, normalized)
-Model analyzes the image
-System predicts:
-Disease name OR
-Healthy plant
-Result is displayed to the user
+## ⚙️ How It Works
+
+1. User uploads a plant leaf image  
+2. Image is preprocessed (resized, normalized)  
+3. Model analyzes the image  
+4. System predicts:
+   - Disease name OR
+   - Healthy plant  
+5. Result is displayed to the user  
 
 ▶️ Getting Started
 1. Clone the Repository
