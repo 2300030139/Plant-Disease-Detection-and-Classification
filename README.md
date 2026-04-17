@@ -69,27 +69,31 @@ python main.py
 5. Train the Model (Optional)
 python train.py
 
+## 📊 Dataset
 
-📊 Dataset
-Contains images of healthy and diseased plant leaves
-Organized into different classes (disease categories)
-Used for training and testing the model
+- Contains images of healthy and diseased plant leaves  
+- Organized into different classes (disease categories)  
+- Used for training and testing the model
+  
+## 🎯 Applications
 
-🎯 Applications
-Smart Farming
-Crop Monitoring
-Agricultural Research
-Early Disease Detection
+- Smart Farming  
+- Crop Monitoring  
+- Agricultural Research  
+- Early Disease Detection  
 
-🔮 Future Enhancements
-Mobile App Integration 📱
-Real-time camera detection 🎥
-More disease categories 🌾
-Cloud deployment ☁️
+## 🔮 Future Enhancements
 
-📄 License
+- 📱 Mobile App Integration  
+- 🎥 Real-time Camera Detection  
+- 🌾 More Disease Categories  
+- ☁️ Cloud Deployment  
+
+## 📄 License
+
 This project is licensed under the MIT License.
 
-👩‍💻 Author
-Navya
-GitHub: https://github.com/2300030139
+## 👩‍💻 Author
+
+Navya  
+GitHub: https://github.com/2300030139  
