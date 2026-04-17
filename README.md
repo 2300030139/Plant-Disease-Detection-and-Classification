@@ -4,13 +4,14 @@ Plant Disease Detection and Classification is a modern AI-based application desi
 
 It uses machine learning / deep learning techniques to analyze plant leaf images and classify them into healthy or diseased categories with high accuracy.
 
-🚀 Features
--🌱 Disease Detection: Identifies plant diseases from leaf images using trained models
--🧠 Deep Learning Model: Uses CNN / ML algorithms for accurate classification
--📊 Multi-Class Classification: Supports multiple plant diseases
--🖼️ Image Processing: Preprocessing of leaf images for better prediction
--💻 User Interface: Simple interface for uploading images and viewing results
--⚡ Fast Prediction: Quick results with optimized model
+## 🚀 Features
+
+- 🌱 Disease Detection: Identifies plant diseases from leaf images using trained models
+- 🧠 Deep Learning Model: Uses CNN / ML algorithms for accurate classification
+- 📊 Multi-Class Classification: Supports multiple plant diseases
+- 🖼️ Image Processing: Preprocessing of leaf images for better prediction
+- 💻 User Interface: Simple interface for uploading images and viewing results
+- ⚡ Fast Prediction: Quick results with optimized model
 
 🛠️ Technology Stack
 Frontend: HTML, CSS, JavaScript (if UI exists)
