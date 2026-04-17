@@ -27,14 +27,22 @@ It uses machine learning / deep learning techniques to analyze plant leaf images
 
 plant-disease-detector/
 │
-├── Crop Dataset/          # Dataset containing plant images
-├── backend/               # Backend logic (model + API)
-├── frontend/              # UI files (if available)
+├── Crop Dataset/              # Dataset containing plant leaf images
 │
-├── main.py                # Main execution file
-├── train.py               # Model training script
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
+├── backend/                  # Backend logic (Flask / model integration)
+│   ├── model/                # Trained ML/DL model files
+│   ├── utils/                # Helper functions (prediction, preprocessing)
+│   └── app.py                # Flask application
+│
+├── frontend/                 # User interface
+│   ├── templates/            # HTML files
+│   ├── static/               # CSS, JS, images
+│   └── index.html            # Main UI page
+│
+├── main.py                   # Runs the application
+├── train.py                  # Model training script
+├── requirements.txt          # Dependencies
+└── README.md                 # Project documentation
 
 ## ⚙️ How It Works
 
