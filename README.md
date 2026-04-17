@@ -23,12 +23,14 @@ It uses machine learning / deep learning techniques to analyze plant leaf images
   - OpenCV / PIL
 - Model Type: Convolutional Neural Network (CNN)
   
-📁 Project Structure
+## 📁 Project Structure
+
 plant-disease-detector/
 │
 ├── Crop Dataset/          # Dataset containing plant images
 ├── backend/               # Backend logic (model + API)
 ├── frontend/              # UI files (if available)
+│
 ├── main.py                # Main execution file
 ├── train.py               # Model training script
 ├── requirements.txt       # Dependencies
