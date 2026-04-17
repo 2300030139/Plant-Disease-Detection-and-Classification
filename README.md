@@ -11,6 +11,7 @@ It uses machine learning / deep learning techniques to analyze plant leaf images
 🖼️ Image Processing: Preprocessing of leaf images for better prediction
 💻 User Interface: Simple interface for uploading images and viewing results
 ⚡ Fast Prediction: Quick results with optimized model
+
 🛠️ Technology Stack
 Frontend: HTML, CSS, JavaScript (if UI exists)
 Backend: Python
@@ -19,6 +20,7 @@ TensorFlow / Keras / PyTorch
 NumPy, Pandas
 OpenCV / PIL
 Model Type: Convolutional Neural Network (CNN)
+
 📁 Project Structure
 plant-disease-detector/
 │
@@ -29,6 +31,7 @@ plant-disease-detector/
 ├── train.py               # Model training script
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
+
 ⚙️ How It Works
 User uploads a plant leaf image
 Image is preprocessed (resized, normalized)
@@ -37,35 +40,42 @@ System predicts:
 Disease name OR
 Healthy plant
 Result is displayed to the user
+
 ▶️ Getting Started
 1. Clone the Repository
 git clone https://github.com/2300030139/Plant-Disease-Detection-and-Classification.git
 cd Plant-Disease-Detection-and-Classification
+
 2. Install Dependencies
 pip install -r requirements.txt
+
 3. Run the Project
 python main.py
-4. Train the Model (Optional)
+
+5. Train the Model (Optional)
 python train.py
+
+
 📊 Dataset
 Contains images of healthy and diseased plant leaves
 Organized into different classes (disease categories)
 Used for training and testing the model
+
 🎯 Applications
 Smart Farming
 Crop Monitoring
 Agricultural Research
 Early Disease Detection
+
 🔮 Future Enhancements
 Mobile App Integration 📱
 Real-time camera detection 🎥
 More disease categories 🌾
 Cloud deployment ☁️
-📄 License
 
+📄 License
 This project is licensed under the MIT License.
 
 👩‍💻 Author
-
 Navya
 GitHub: https://github.com/2300030139
