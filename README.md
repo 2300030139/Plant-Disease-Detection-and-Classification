@@ -91,4 +91,4 @@ python train.py
 
 ## 📄 License
 
- © Navya
+MIT © Navya
